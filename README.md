@@ -7,7 +7,7 @@ This mini project was created to deepen understanding of Vue.js fundamentals, AP
 
 ## Demo
 
-*Add your live demo link here if available*
+ https://lnkd.in/efZ2n7mZ
 
 ---
 
@@ -15,10 +15,8 @@ This mini project was created to deepen understanding of Vue.js fundamentals, AP
 
 - Search for any city worldwide to get current weather conditions  
 - Loading spinner while fetching data  
-- Inline error messages displayed inside the card (no alerts)  
 - Clean and modern glassmorphism-inspired UI  
 - Responsive design for mobile and desktop  
-- Accessible with keyboard navigation and ARIA support  
 
 ---
 
