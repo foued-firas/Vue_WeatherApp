@@ -47,11 +47,12 @@
 <script>
 export default {
   data() {
-    return {
-      query: '',
-      weather: null,
-      apiKey: '129fa9f777ef71cc93123524f7f8e77e',
-    };
+return {
+  query: '',
+  weather: null,
+  apiKey: process.env.VUE_APP_WEATHER_API_KEY,
+};
+
   },
   methods: {
     async fetchWeather() {
@@ -256,7 +257,6 @@ export default {
   margin: -1px;
 }
 
-/* Animations */
 
 .fade-enter-active, .fade-leave-active {
   transition: opacity 0.4s ease;
@@ -277,7 +277,6 @@ export default {
   }
 }
 
-/* Responsive */
 
 @media (max-width: 400px) {
   .weather-card {
