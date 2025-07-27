@@ -14,7 +14,6 @@ This mini project was created to deepen understanding of Vue.js fundamentals, AP
 ## Features
 
 - Search for any city worldwide to get current weather conditions  
-- Light and dark mode toggle for user comfort  
 - Loading spinner while fetching data  
 - Inline error messages displayed inside the card (no alerts)  
 - Clean and modern glassmorphism-inspired UI  
@@ -23,9 +22,14 @@ This mini project was created to deepen understanding of Vue.js fundamentals, AP
 
 ---
 
-## Screenshots
+Technologies Used
+Vue.js 3
 
-*Add screenshots here (optional)*
+Fetch API
+
+CSS3 (glassmorphism design)
+
+OpenWeatherMap API
 
 ---
 
